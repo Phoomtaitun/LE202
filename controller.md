@@ -23,3 +23,8 @@
 -  ESP32 Camera Module Development Board 
 -  540 THB
 -  https://www.arduitronics.com/product/3679/m5stack-%E0%B9%82%E0%B8%A1%E0%B8%94%E0%B8%B9%E0%B8%A5%E0%B8%81%E0%B8%A5%E0%B9%89%E0%B8%AD%E0%B8%87-esp32-camera-module-development-board-ov2640-free-usb-cable-type-c
+-  240 MHz
+-  Flash memory : 4MB , RAM : 520 KB
+-  USB type C (WIFI) , 2M pixel camera
+![eb](https://user-images.githubusercontent.com/88340264/153743341-43578b28-dc11-478a-8643-47f99cba5130.jpg)
+
