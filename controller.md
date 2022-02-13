@@ -41,3 +41,11 @@
 - Flash memory : 521KB , RAM 128 KB
 - USB type C
 ![zf](https://user-images.githubusercontent.com/88340264/153743615-f17d44db-7216-40a3-ae70-20e83710d4c8.jpg)
+
+## Arduino
+- Arduino Leonardo
+- 300 THB
+- https://www.arduitronics.com/product/3743/arduino-leonardo-5v-16mhz-mini-usb-atmega32u4-development-board
+- 16 MHz
+- 12 I/O , 5 PWM pins, 10 bits ADC pins
+![dt](https://user-images.githubusercontent.com/88340264/153743791-33a1221a-add0-4f31-bf95-e706a560573a.jpg)
