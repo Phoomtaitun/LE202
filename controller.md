@@ -10,7 +10,9 @@
 - 16 MHz
 - Flash Memory : 32 KB , SRAM : 2 KB
 - port DC power 7-12V , I/O 14 , Analog-input 6
-![download](https://user-images.githubusercontent.com/88340264/153743371-4e39a621-2243-4e94-bf0d-427bd561467b.jpg)
+
+![download](https://user-images.githubusercontent.com/88340264/153743389-dffc0d69-defe-4acc-ad9c-be4a6e0706df.jpg)
+
 
 ## RISC-V
 - Sipeed Maix
