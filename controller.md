@@ -33,3 +33,11 @@
 -  USB type C (WIFI) , 2M pixel camera
 ![eb](https://user-images.githubusercontent.com/88340264/153743341-43578b28-dc11-478a-8643-47f99cba5130.jpg)
 
+## EMW3165
+- EMW3165
+- 370 THB
+- https://www.arduitronics.com/product/2723/wifimcu-development-board-with-emw3165
+- 100MHz
+- Flash memory : 521KB , RAM 128 KB
+- USB type C
+![zf](https://user-images.githubusercontent.com/88340264/153743615-f17d44db-7216-40a3-ae70-20e83710d4c8.jpg)
